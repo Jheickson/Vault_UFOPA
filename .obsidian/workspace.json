@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste.md",
+                "file": "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste.md",
+                "file": "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste.md",
+                "file": "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste.md"
+                "file": "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md"
               }
             }
           }
@@ -156,6 +156,18 @@
   },
   "active": "85119cac1fa3cf5b",
   "lastOpenFiles": [
-    "Teste.md"
+    "Plano de Teste - Monkeytype.docx.md",
+    "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
+    "Teste e Qualidade de Software/Plano de Teste - Monkeytype.pdf",
+    "Teste.md",
+    "Teste e Qualidade de Software/lu23526771v.tmp",
+    "Teste e Qualidade de Software/Plano de Teste - Monkeytype.odt",
+    "Teste e Qualidade de Software/lu5924663ul.tmp",
+    "Teste e Qualidade de Software/lu5924663ui.tmp",
+    "Teste e Qualidade de Software/lu36401b86j.tmp",
+    "Teste e Qualidade de Software/lu36401b86g.tmp",
+    "Teste e Qualidade de Software/lu36401b86d.tmp",
+    "Teste e Qualidade de Software/lu36401b86a.tmp",
+    "Teste e Qualidade de Software/lu36401b867.tmp"
   ]
 }
