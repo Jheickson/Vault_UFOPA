@@ -11,12 +11,30 @@
             "id": "85119cac1fa3cf5b",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.pdf"
+              }
+            }
+          },
+          {
+            "id": "f7934f179fb65526",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
+                "file": "Teste e Qualidade de Software/Atividade 2 - Teste de Usabilidade.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d98af2a0b32b8472",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
+                "file": "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
+                "file": "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md"
+                "file": "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,20 +173,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "512d5256a43f60e2",
+  "active": "91649000b839d3a4",
   "lastOpenFiles": [
-    "Teste.md",
+    "Teste e Qualidade de Software/Atividade 2 - Teste de Usabilidade.md",
     "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
+    "Teste de Usabilidade - Monkeytype.pdf.md",
+    "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.pdf",
+    "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.odt",
+    "Teste e Qualidade de Software/Teste de Usabilidade - Monkeytype.docx",
+    "Teste e Qualidade de Software/P.docx",
+    "Teste e Qualidade de Software/Template Plano de Teste - Copy.docx",
+    "Untitled.md",
+    "Teste.md",
     "Plano de Teste - Monkeytype.docx.md",
     "Teste e Qualidade de Software/Plano de Teste - Monkeytype.pdf",
     "Teste e Qualidade de Software/lu23526771v.tmp",
     "Teste e Qualidade de Software/Plano de Teste - Monkeytype.odt",
     "Teste e Qualidade de Software/lu5924663ul.tmp",
-    "Teste e Qualidade de Software/lu5924663ui.tmp",
-    "Teste e Qualidade de Software/lu36401b86j.tmp",
-    "Teste e Qualidade de Software/lu36401b86g.tmp",
-    "Teste e Qualidade de Software/lu36401b86d.tmp",
-    "Teste e Qualidade de Software/lu36401b86a.tmp",
-    "Teste e Qualidade de Software/lu36401b867.tmp"
+    "Teste e Qualidade de Software/lu5924663ui.tmp"
   ]
 }

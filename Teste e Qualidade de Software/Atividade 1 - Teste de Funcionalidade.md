@@ -39,5 +39,5 @@
   
 **Observações:** Este exercício visa proporcionar uma experiência prática aos alunos, permitindo-lhes aplicar os conceitos aprendidos em sala de aula em um cenário realista. A atividade promove o desenvolvimento de habilidades de elaboração de casos de teste, execução de testes e análise de resultados, alinhados ao processo IEEE 829-2008. Além disso, a discussão e reflexão estimulam a compreensão mais profunda da importância do teste de software na indústria de tecnologia.
 
-
-Resposta da atividade: [[Plano de Teste - Monkeytype.pdf]]
+Template para a atividade: [[Template Plano de Teste.docx]]
+Resposta da atividade: [[Teste de Funcionalidade - Monkeytype.odt]] [[Teste de Funcionalidade - Monkeytype.pdf]]
