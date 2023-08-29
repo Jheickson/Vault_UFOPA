@@ -1,4 +1,4 @@
-**Objetivo:** O propósito desta atividade é permitir que os estudantes apliquem os conceitos do processo de teste de software, especificamente o processo IEEE 829-2008, para realizar uma avaliação de usabilidade em um software. A atividade visa desenvolver competências na elaboração de um plano de teste de usabilidade, na execução da avaliação e na análise dos resultados usando o questionário System Usability Scale (SUS).  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\**Objetivo:** O propósito desta atividade é permitir que os estudantes apliquem os conceitos do processo de teste de software, especificamente o processo IEEE 829-2008, para realizar uma avaliação de usabilidade em um software. A atividade visa desenvolver competências na elaboração de um plano de teste de usabilidade, na execução da avaliação e na análise dos resultados usando o questionário System Usability Scale (SUS).  
   
 **Software:** O aplicativo de teste será definido pelos estudantes, aquele passível de executar uma avaliação de usabilidade.  
 **Passos da Atividade:**  

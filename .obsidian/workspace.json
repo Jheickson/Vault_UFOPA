@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5
   },
   "right": {
     "id": "6bb684734ea85a43",
@@ -173,23 +173,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91649000b839d3a4",
+  "active": "85119cac1fa3cf5b",
   "lastOpenFiles": [
+    "Teste e Qualidade de Software/lu65887vbo.tmp",
     "Teste e Qualidade de Software/Atividade 2 - Teste de Usabilidade.md",
+    "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.pdf",
+    "Teste e Qualidade de Software/Teste de Usabilidade - Monkeytype.odt",
+    "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype - Copy.odt",
+    "Teste e Qualidade de Software/lu65887vbk.tmp",
+    "Teste e Qualidade de Software/lu65887vbg.tmp",
+    "Teste e Qualidade de Software/lu65887vbd.tmp",
+    "Teste e Qualidade de Software/lu65887vba.tmp",
+    "Teste e Qualidade de Software/lu65887vb7.tmp",
+    "Teste e Qualidade de Software/lu65887vb4.tmp",
+    "Teste e Qualidade de Software/lu65887vb1.tmp",
     "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
     "Teste de Usabilidade - Monkeytype.pdf.md",
-    "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.pdf",
-    "Teste e Qualidade de Software/Teste de Funcionalidade - Monkeytype.odt",
-    "Teste e Qualidade de Software/Teste de Usabilidade - Monkeytype.docx",
-    "Teste e Qualidade de Software/P.docx",
-    "Teste e Qualidade de Software/Template Plano de Teste - Copy.docx",
     "Untitled.md",
     "Teste.md",
-    "Plano de Teste - Monkeytype.docx.md",
-    "Teste e Qualidade de Software/Plano de Teste - Monkeytype.pdf",
-    "Teste e Qualidade de Software/lu23526771v.tmp",
-    "Teste e Qualidade de Software/Plano de Teste - Monkeytype.odt",
-    "Teste e Qualidade de Software/lu5924663ul.tmp",
-    "Teste e Qualidade de Software/lu5924663ui.tmp"
+    "Plano de Teste - Monkeytype.docx.md"
   ]
 }
