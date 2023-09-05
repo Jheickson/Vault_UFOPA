@@ -8,21 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7934f179fb65526",
+            "id": "d98af2a0b32b8472",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Teste e Qualidade de Software/Atividade 1 & 2/Teste de Usabilidade - Monkeytype.pdf"
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf"
               }
             }
           },
           {
-            "id": "d98af2a0b32b8472",
+            "id": "faad3d92fda20266",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Vídeos Complementares - Arquitetura de Sistemas Distribuídos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Vídeos Complementares - Arquitetura de Sistemas Distribuídos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Vídeos Complementares - Arquitetura de Sistemas Distribuídos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Vídeos Complementares - Arquitetura de Sistemas Distribuídos.md"
+              }
             }
           }
         ],
@@ -158,20 +166,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d98af2a0b32b8472",
+  "active": "faad3d92fda20266",
   "lastOpenFiles": [
-    "Teste e Qualidade de Software/Atividade 1 & 2/Atividade 2 - Teste de Usabilidade.md",
-    "Teste e Qualidade de Software/Atividade 1 & 2/SUSCHAPT.pdf",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Vídeos Complementares - Arquitetura de Sistemas Distribuídos.md",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf.crdownload",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/leitura_complementar_-_arquitetura_de_sistemas_distribuidos_2.pdf",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/leitura_complementar_-_arquitetura_de_sistemas_distribuidos_2.pdf.crdownload",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos",
+    "Sistemas Distribuídos/New folder",
+    "Sistemas Distribuídos",
+    "Teste e Qualidade de Software/SUSCHAPT.pdf",
     "Teste e Qualidade de Software/Atividade 1 & 2/Teste de Usabilidade - Monkeytype.pdf",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRL2115.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRD2084.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRL3141.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRD3110.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRL1368.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRD1340.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRL0717.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRD0690.tmp",
+    "Teste e Qualidade de Software/Atividade 1 & 2/Teste de Usabilidade - Monkeytype.odt",
+    "Teste e Qualidade de Software/Atividade 1 & 2/Atividade 2 - Teste de Usabilidade.md",
     "Teste e Qualidade de Software/Atividade 1 & 2/Atividade 1 - Teste de Funcionalidade.md",
+    "Teste e Qualidade de Software/Atividade 2 - Teste de Usabilidade.md",
+    "Teste e Qualidade de Software/Atividade 1 - Teste de Funcionalidade.md",
     "Teste de Usabilidade - Monkeytype.pdf.md",
     "Untitled.md",
     "Teste.md",
