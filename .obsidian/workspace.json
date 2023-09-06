@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "04f0cd82a0ca0e73",
+        "id": "3956e2b7d466d2be",
         "type": "tabs",
         "children": [
           {
-            "id": "f7934f179fb65526",
+            "id": "26ae4ab1defe90fc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Teste e Qualidade de Software/Atividade 1 & 2/Teste de Usabilidade - Monkeytype.pdf"
-              }
-            }
-          },
-          {
-            "id": "d98af2a0b32b8472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "938fef4c5e8dd69a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "right": {
     "id": "6bb684734ea85a43",
@@ -115,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md"
+                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf"
               }
             }
           }
@@ -177,27 +153,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "938fef4c5e8dd69a",
+  "active": "26ae4ab1defe90fc",
   "lastOpenFiles": [
-    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/leitura_complementar_-_arquitetura_de_sistemas_distribuidos_2.pdf",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Diagrama de Componentes - Youtube.zip",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Arquitetura de sistemas distribuídos.zip",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Diagrama de Componentes - Youtube.drawio.pdf",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Diagrama de Componentes - Youtube.drawio.png",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Exemplo youtube 2.jpg",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Exemplo youtube 2.jpg.crdownload",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Exemplo youtube.png",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Diagrama de Componentes - Youtube.drawio",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Exemplo youtube.png.crdownload",
+    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/leitura_complementar_-_arquitetura_de_sistemas_distribuidos_2.pdf",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Vídeos Complementares - Arquitetura de Sistemas Distribuídos.md",
+    "Teste e Qualidade de Software/Atividade 1 & 2/Teste de Usabilidade - Monkeytype.pdf",
+    "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos",
     "Sistemas Distribuídos",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Logo Sbg.png",
-    "Sistemas de Inovação e Empreendedorismo/Imagens/Logo Sbg.png.crdownload",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Logo.png",
-    "Sistemas de Inovação e Empreendedorismo/Imagens/Logo.png.crdownload",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Crops.webp",
-    "Sistemas de Inovação e Empreendedorismo/Imagens/Crops.webp.crdownload",
     "Sistemas de Inovação e Empreendedorismo/Imagens/drone.svg",
-    "Sistemas de Inovação e Empreendedorismo/Imagens/drone.svg.crdownload",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Cropfiled.png",
-    "Sistemas de Inovação e Empreendedorismo/Imagens/Cropfiled.png.crdownload",
-    "Sistemas de Inovação e Empreendedorismo/Imagens",
-    "Sistemas de Inovação e Empreendedorismo/New folder",
     "Sistemas de Inovação e Empreendedorismo/Apresentação das 6 perguntas 3 min 04 09.md",
-    "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
     "Untitled.md",
     "Teste e Qualidade de Software/Atividade 1 & 2/Atividade 2 - Teste de Usabilidade.md",
     "Teste e Qualidade de Software/Atividade 1 & 2/Atividade 1 - Teste de Funcionalidade.md",
