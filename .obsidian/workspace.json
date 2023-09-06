@@ -21,12 +21,26 @@
             "id": "d98af2a0b32b8472",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "938fef4c5e8dd69a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bb684734ea85a43",
@@ -100,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md"
+              }
             }
           }
         ],
@@ -158,22 +177,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d98af2a0b32b8472",
+  "active": "938fef4c5e8dd69a",
   "lastOpenFiles": [
+    "Sistemas de Inovação e Empreendedorismo/Imagens/Logo Sbg.png",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/Logo Sbg.png.crdownload",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/Logo.png",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/Logo.png.crdownload",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/Crops.webp",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/Crops.webp.crdownload",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/drone.svg",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/drone.svg.crdownload",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/Cropfiled.png",
+    "Sistemas de Inovação e Empreendedorismo/Imagens/Cropfiled.png.crdownload",
+    "Sistemas de Inovação e Empreendedorismo/Imagens",
+    "Sistemas de Inovação e Empreendedorismo/New folder",
+    "Sistemas de Inovação e Empreendedorismo/Apresentação das 6 perguntas 3 min 04 09.md",
+    "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
+    "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas",
+    "Untitled.md",
+    "Sistemas de Inovação e Empreendedorismo",
     "Teste e Qualidade de Software/Atividade 1 & 2/Atividade 2 - Teste de Usabilidade.md",
     "Teste e Qualidade de Software/Atividade 1 & 2/SUSCHAPT.pdf",
-    "Teste e Qualidade de Software/Atividade 1 & 2/Teste de Usabilidade - Monkeytype.pdf",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRL2115.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRD2084.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRL3141.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRD3110.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRL1368.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRD1340.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRL0717.tmp",
-    "Teste e Qualidade de Software/Atividade 1 & 2/~WRD0690.tmp",
     "Teste e Qualidade de Software/Atividade 1 & 2/Atividade 1 - Teste de Funcionalidade.md",
     "Teste de Usabilidade - Monkeytype.pdf.md",
-    "Untitled.md",
     "Teste.md",
     "Plano de Teste - Monkeytype.docx.md"
   ]
