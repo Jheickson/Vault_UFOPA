@@ -14,7 +14,8 @@ Segmentos de clientes:
 	Cada segmento de clientes exige proposta de valor, receita, canal e relacionamentos distintos.
 	É importante que defina quais são os segmentos de clientes mais importantes, os que geram mais receita, os que dão maior visibilidade.
 
-# Definir a Proposta de Valor e o Segmento de Clientes para o nosso projeto
+##  Atividade - Definir a Proposta de Valor e o Segmento de Clientes para o nosso projeto
+Cada segmento de clientes deve possuir uma proposta de valor e receita.
 Perguntas que devem ser definidas:
 	**Definir Cliente**
 		Médios e grandes agricultores que estão à procura de métodos para melhorar a qualidade da sua produção.
@@ -27,7 +28,6 @@ Perguntas que devem ser definidas:
 		No caso do nosso serviço, muitas das vezes os clientes e usuários serão a mesma pessoa.
 	**Proposta de valor?**
 		Nosso serviço fornecerá aos agricultores, informações relevantes para otimizar suas operações, economizar recursos e reduzir perdas de colheita.
-
 
 ## Canais
 * Descrevem como o negócio se comunica e interage com seus segmentos de clientes para entregar a proposta de valor.
@@ -42,3 +42,42 @@ Perguntas que devem ser definidas:
 ## Relacionamento com o Clientes
 * Descreve os tipos de relacionamentos que a empresa estabelece com os segmentos de clientes.
 * O relacionamento pode ser por meio assistência individual, assistência dedicada, serlf-service, serviços automatizados, comunidades, co-criação.
+
+## Fluxo de Receitas
+* Representa os tipos e formas de receitas gerados a partir de cada segmento de clientes.
+* Tipos de Receitas:
+	* Quanto os clientes estão dispostos a pagar?
+	* Quanto eles pagariam hoje no mercado?
+	* Como os clientes preferem pagar?
+	* Como cada receita contribui para a receita total?
+## Recursos Chave
+* Descrevem os ativos mais importantes para fazer com que o modelo de negócios funcione
+* Os recursos chave podem ser físicos, intelectuais, humanos, financeiros, tecnológicos
+
+## Atividades Chave 
+* São as atividade mais importantes que devem ser feitas para que o modelo de negócios funcione
+* Que atividade chaves nossa proposta de valor exige?
+* As atividades podem ser classificadas em:
+	* Produção
+	* Solução de Problemas
+	* Plataforma/Rede
+
+## Parceiros Chave 
+* Formam a rede de fornecedores e de parceiros que fazem o noegócio funcionar.
+* É importante responder às seguintes perguntas:
+	* Quem são os nossos parceiros?
+	* Quem são os nossos fornecedores?
+	* Que recursos chaves estamos adquirindo de parceiros?
+	* Que atividades chaves são executadas por nossos parceiros?
+
+## Estrutura de Custos
+* Descreve os custos incorridos para operar o modelo de negócios
+* Perguntas norteadoras:
+	* Quais são os principais custos inerentes ao modelo de negócios?
+	* Quais são os recursos mais caros?
+	* Quais são as atividades mais caras?
+
+
+# Atividade - Montar o modelo Canvas
+[Link para o modelo no canva](https://www.canva.com/design/DAFu05s9Y44/NWHlH7ZBohxOV4Ab9tLkAg/edit?utm_content=DAFu05s9Y44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
