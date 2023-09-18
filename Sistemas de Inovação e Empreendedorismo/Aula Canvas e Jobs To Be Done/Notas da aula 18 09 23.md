@@ -80,4 +80,3 @@ Perguntas que devem ser definidas:
 
 # Atividade - Montar o modelo Canvas
 [Link para o modelo no canva](https://www.canva.com/design/DAFu05s9Y44/NWHlH7ZBohxOV4Ab9tLkAg/edit?utm_content=DAFu05s9Y44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
