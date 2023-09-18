@@ -16,8 +16,19 @@
                 "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf"
               }
             }
+          },
+          {
+            "id": "0d0e5424008b2a5a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Inteligência Artificial/Apresentação - IA  nossa de cada dia/dialogflow-logo-534FF34238-seeklogo.com.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf",
+                "file": "Inteligência Artificial/Apresentação - IA  nossa de cada dia/dialogflow-logo-534FF34238-seeklogo.com.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf",
+                "file": "Inteligência Artificial/Apresentação - IA  nossa de cada dia/dialogflow-logo-534FF34238-seeklogo.com.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf"
+                "file": "Inteligência Artificial/Apresentação - IA  nossa de cada dia/dialogflow-logo-534FF34238-seeklogo.com.png"
+              }
+            }
+          },
+          {
+            "id": "59482c34a9ff15c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -153,8 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26ae4ab1defe90fc",
+  "active": "0d0e5424008b2a5a",
   "lastOpenFiles": [
+    "Inteligência Artificial/Apresentação - IA  nossa de cada dia/Apresentação DialogFlow.mp4",
+    "Inteligência Artificial/Apresentação - IA  nossa de cada dia/2023-09-17 23-48-12.mp4",
+    "Inteligência Artificial/Apresentação - IA  nossa de cada dia/dialogflow-logo-534FF34238-seeklogo.com.png",
+    "Inteligência Artificial/Apresentação - IA  nossa de cada dia",
+    "Inteligência Artificial/New folder",
+    "Inteligência Artificial/dialogflow-logo-534FF34238-seeklogo.com.png",
+    "Inteligência Artificial/dialogflow-logo-534FF34238-seeklogo.com.png.crdownload",
+    "Inteligência Artificial",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Diagrama de Componentes - Youtube.zip",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Arquitetura de sistemas distribuídos.zip",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Diagrama de Componentes - Youtube.drawio.pdf",
@@ -163,14 +192,8 @@
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Exemplo youtube 2.jpg.crdownload",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Exemplo youtube.png",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Diagrama de Componentes - Youtube.drawio",
-    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/aula_03_-_arquitetura_de_sd.pdf",
-    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Exemplo youtube.png.crdownload",
-    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/leitura_complementar_-_arquitetura_de_sistemas_distribuidos_2.pdf",
     "Sistemas Distribuídos/Arquitetura de sistemas distribuídos/Vídeos Complementares - Arquitetura de Sistemas Distribuídos.md",
-    "Teste e Qualidade de Software/Atividade 1 & 2/Teste de Usabilidade - Monkeytype.pdf",
     "Sistemas de Inovação e Empreendedorismo/Apresentação 6 perguntas/Apresentação das 6 perguntas 3 min 04 09.md",
-    "Sistemas Distribuídos/Arquitetura de sistemas distribuídos",
-    "Sistemas Distribuídos",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Logo Sbg.png",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Logo.png",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Crops.webp",
