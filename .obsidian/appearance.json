@@ -4,5 +4,6 @@
   "textFontFamily": "Comfortaa",
   "monospaceFontFamily": "Comfortaa",
   "translucency": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 15
 }
