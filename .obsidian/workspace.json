@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b998727ebfda5c45",
+            "id": "3f375c54cb76f367",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Sistemas de inovação Brasileiros/Notas 9 10 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e598211275d2ff32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Aula 16 10/Notas aula 16 10 23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Aula 16 10/Notas aula 16 10 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Aula 16 10/Notas aula 16 10 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistemas de Inovação e Empreendedorismo/Aula 16 10/Notas aula 16 10 23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,8 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e598211275d2ff32",
+  "active": "3f375c54cb76f367",
   "lastOpenFiles": [
+    "Sistemas Distribuídos/Projeto ProDisciplinas/Acompanhamento dos projetos/Acompanhamento 1.md",
+    "Sistemas Distribuídos/Projeto ProDisciplinas/Acompanhamento dos projetos/Acompanhamento 1.txt",
+    "Sistemas Distribuídos/Projeto ProDisciplinas/Acompanhamento dos projetos/Acompanhamento 1 - Copy.md",
+    "Sistemas Distribuídos/Projeto ProDisciplinas/Acompanhamento dos projetos",
     "Sistemas de Inovação e Empreendedorismo/Aula 16 10/Notas aula 16 10 23.md",
     "Sistemas de Inovação e Empreendedorismo/Aula 16 10",
     "Sistemas de Inovação e Empreendedorismo/Aula Canvas e Jobs To Be Done/Canvas - EcoFishFeed.pdf",
@@ -192,8 +175,6 @@
     "Sistemas de Inovação e Empreendedorismo/Aula 25 09 - Jobs to Be Done",
     "Untitled",
     "Sistemas de Inovação e Empreendedorismo/Aula Canvas e Jobs To Be Done/Relacionados/Artigo relacionada.pdf.crdownload",
-    "Sistemas de Inovação e Empreendedorismo/Aula Canvas e Jobs To Be Done/Relacionados",
-    "Sistemas de Inovação e Empreendedorismo/Aula Canvas e Jobs To Be Done/New folder",
     "Inteligência Artificial/Apresentação - IA  nossa de cada dia/dialogflow-logo-534FF34238-seeklogo.com.png",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Crops.webp",
     "Sistemas de Inovação e Empreendedorismo/Imagens/Cropfiled.png",
