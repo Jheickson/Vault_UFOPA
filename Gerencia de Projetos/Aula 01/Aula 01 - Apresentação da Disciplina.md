@@ -4,3 +4,5 @@ Arquivos da aula:
 
 #### Atividade para a próxima aula
 	Faça um mapa mental dos principais pontos/lições aprendidas na aula (Atividade SIGAA)
+
+[Atividade](Mapa mental - Aula 1 Gerencia de Projetos.drawio)
