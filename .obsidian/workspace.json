@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bb684734ea85a43",
@@ -166,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98c96266fc480738",
+  "active": "512d5256a43f60e2",
   "lastOpenFiles": [
     "Gerencia de Projetos/Aula 01/Mapa mental - Aula 1 Gerencia de Projetos.drawio.svg",
     "Tópicos Avançados em Redes de Computadores/Aula 02.md",
