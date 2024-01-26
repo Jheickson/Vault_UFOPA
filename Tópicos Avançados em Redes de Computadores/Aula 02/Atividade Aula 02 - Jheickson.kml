@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Atividade Aula 02 - Jheickson</name>
+	<gx:CascadingStyle kml:id="__managed_style_092728C7242E78724629">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1426C5CFC52E78724628">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01537EDB1F2E78724628">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1426C5CFC52E78724628</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_092728C7242E78724629</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0DBACCFEFF2E78724627">
+		<name>Área de distribuição</name>
+		<LookAt>
+			<longitude>-52.22515438820465</longitude>
+			<latitude>-3.179715534092983</latitude>
+			<altitude>138.4151361750719</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3960.955682612839</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-52.21957651262046,-3.178014814662347,0 -52.22435935853617,-3.1719182943768,0 -52.23206887065142,-3.173918183943133,0 -52.23367219322195,-3.178621174380356,0 -52.2322317322399,-3.179710357213977,0 -52.22946886417324,-3.180368911831153,0 -52.22590974075972,-3.18149901683085,0 -52.22299863823584,-3.181586456480245,0 -52.21957651262046,-3.178014814662347,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="09DF5377452E78729045">
+		<name>CTO 1</name>
+		<LookAt>
+			<longitude>-52.22372756137662</longitude>
+			<latitude>-3.185380935906383</latitude>
+			<altitude>132.1047812514549</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2049.507407348428</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22545274345293,-3.180708571317318,131.4313592488588</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0255D151072E7876180F">
+		<name>CTO 2</name>
+		<LookAt>
+			<longitude>-52.2254092743739</longitude>
+			<latitude>-3.186798326026314</latitude>
+			<altitude>150.3912141157211</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1790.195869448944</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.2225283335917,-3.178224742901731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05F159A5DF2E787671D2">
+		<name>CTO 3</name>
+		<LookAt>
+			<longitude>-52.22659840016719</longitude>
+			<latitude>-3.187112292963077</latitude>
+			<altitude>159.780213082758</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1349.215248324472</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22795313695605,-3.180475017693314,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F82E33F1D2E78842BEA">
+		<name>CTO 4</name>
+		<LookAt>
+			<longitude>-52.23164797301013</longitude>
+			<latitude>-3.183417122380795</latitude>
+			<altitude>161.1265176158607</altitude>
+			<heading>1.207418269725733e-06</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1396.329559778242</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22626133388033,-3.178902063360048,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E319F0BBA2E78795B50">
+		<name>CTO 5</name>
+		<LookAt>
+			<longitude>-52.23164817297862</longitude>
+			<latitude>-3.18751449096845</latitude>
+			<altitude>155.5768848125426</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1103.0590376904</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22987288217909,-3.178581097979232,155.9073498970167</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09EF1CCD8A2E78798FDA">
+		<name>CTO 6</name>
+		<LookAt>
+			<longitude>-52.23341857870933</longitude>
+			<latitude>-3.188742660184286</latitude>
+			<altitude>157.4904499085947</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1101.14540237686</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.23235255753345,-3.177995279319146,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9510760E2E7879F48C">
+		<name>CTO 7</name>
+		<LookAt>
+			<longitude>-52.23390322822357</longitude>
+			<latitude>-3.184525669243835</latitude>
+			<altitude>140.2690676039456</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1634.49394873227</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.2317249845707,-3.176969783444847,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07688F55E82E7879B3D3">
+		<name>CTO 8</name>
+		<LookAt>
+			<longitude>-52.23332260359849</longitude>
+			<latitude>-3.185919441566775</latitude>
+			<altitude>137.057477116552</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1226.650804964447</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.23127794657155,-3.1791349745574,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00171F956A2E7879D7B5">
+		<name>CTO 9</name>
+		<LookAt>
+			<longitude>-52.23390322822357</longitude>
+			<latitude>-3.184525669243835</latitude>
+			<altitude>140.2690676039456</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1634.49394873227</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22987922200122,-3.17626768002748,141.9398322720812</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08289E53F92E7876BEC5">
+		<name>CTO 10</name>
+		<LookAt>
+			<longitude>-52.22367535371798</longitude>
+			<latitude>-3.184469259180798</latitude>
+			<altitude>127.893707499743</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1602.543349883636</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22382482831441,-3.179962573745875,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06067E1F652E78771DE7">
+		<name>CTO 11</name>
+		<LookAt>
+			<longitude>-52.22583283961519</longitude>
+			<latitude>-3.185018021762463</latitude>
+			<altitude>143.2817471626504</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1587.155278116697</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22749407157745,-3.176551488810238,133.4966381891428</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06ADE765522E78773197">
+		<name>CTO 12</name>
+		<LookAt>
+			<longitude>-52.22583283961519</longitude>
+			<latitude>-3.185018021762463</latitude>
+			<altitude>143.2817471626504</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1587.155278116697</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22036769854787,-3.178381738299068,142.5828490589464</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04883A8B232E78781537">
+		<name>CTO 13</name>
+		<LookAt>
+			<longitude>-52.22720888631459</longitude>
+			<latitude>-3.183576945600642</latitude>
+			<altitude>153.1933518687551</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1181.792693742755</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22664802373227,-3.180120252596252,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0266298ADF2E78786303">
+		<name>CTO 14</name>
+		<LookAt>
+			<longitude>-52.2278055532397</longitude>
+			<latitude>-3.184068013278188</latitude>
+			<altitude>158.114097029765</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1296.680623484426</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22340326787102,-3.176727106088056,162.3068719195075</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01751F7D1F2E787895E7">
+		<name>CTO 15</name>
+		<LookAt>
+			<longitude>-52.22934977810115</longitude>
+			<latitude>-3.18482649070454</latitude>
+			<altitude>165.4130226241987</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>908.9312531263568</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22701142958654,-3.174728215598067,165.537796720882</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08CB4D61EF2E7878C1F1">
+		<name>CTO 16</name>
+		<LookAt>
+			<longitude>-52.22769226603884</longitude>
+			<latitude>-3.185101994059961</latitude>
+			<altitude>160.5142422179881</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1334.50609479798</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22510496675689,-3.177248805554792,162.8889083086866</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0317A4CD662E78793E00">
+		<name>CTO 17</name>
+		<LookAt>
+			<longitude>-52.23031907068693</longitude>
+			<latitude>-3.18729331608696</latitude>
+			<altitude>161.7469792063038</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1096.888882609637</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.23065172115806,-3.176817418191394,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0728DCCB012E787A455C">
+		<name>CTO 18</name>
+		<LookAt>
+			<longitude>-52.23167392988171</longitude>
+			<latitude>-3.183448766147738</latitude>
+			<altitude>161.1265066396038</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1593.719359676179</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22881188442869,-3.17563442850139,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C227441BF2E787A75E2">
+		<name>CTO 19</name>
+		<LookAt>
+			<longitude>-52.22959802428418</longitude>
+			<latitude>-3.180682497176966</latitude>
+			<altitude>153.8014002066757</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1601.044593598635</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22955292364593,-3.180182970176753,156.9933133557083</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00F6A3720B2E787AADD4">
+		<name>CTO 20</name>
+		<LookAt>
+			<longitude>-52.22666347724428</longitude>
+			<latitude>-3.182176814219235</latitude>
+			<altitude>143.7679755788881</altitude>
+			<heading>359.9999991404968</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1611.078083651082</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22578809987593,-3.175483395305405,152.2685644951918</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05B51E624E2E787B4D67">
+		<name>CTO 21</name>
+		<LookAt>
+			<longitude>-52.22530099367321</longitude>
+			<latitude>-3.179579886642947</latitude>
+			<altitude>135.9560659637366</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2039.422741156596</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22494787941844,-3.179169119801539,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03BF2B36A32E787B767E">
+		<name>CTO 22</name>
+		<LookAt>
+			<longitude>-52.22393046887207</longitude>
+			<latitude>-3.178373201613089</latitude>
+			<altitude>142.4911565210465</altitude>
+			<heading>359.9999991404968</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1032.503922058532</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22397763035206,-3.178095376997988,143.8593548726646</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C0CD45AE72E787BFDBB">
+		<name>CTO 23</name>
+		<LookAt>
+			<longitude>-52.22227293903718</longitude>
+			<latitude>-3.178271275858014</latitude>
+			<altitude>150.7561399189024</altitude>
+			<heading>359.9999987868522</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1484.449680019316</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22225930214231,-3.179639654420214,144.378144537811</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD8E5EB532E787C4F95">
+		<name>CTO 24</name>
+		<LookAt>
+			<longitude>-52.22658484985338</longitude>
+			<latitude>-3.177060276042122</latitude>
+			<altitude>148.706144559632</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1486.499692327488</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22668001649841,-3.177772927505564,148.913575976821</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E185ADDF22E787C8648">
+		<name>CTO 25</name>
+		<LookAt>
+			<longitude>-52.22722822371427</longitude>
+			<latitude>-3.176047964699175</latitude>
+			<altitude>153.810807172911</altitude>
+			<heading>1.207418269725733e-06</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2254.078647342394</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22450025558746,-3.174173221067716,152.7219820929135</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A70708CED2E787C9866">
+		<name>CTO 26</name>
+		<LookAt>
+			<longitude>-52.22722822371427</longitude>
+			<latitude>-3.176047964699175</latitude>
+			<altitude>153.810807172911</altitude>
+			<heading>1.207418269725733e-06</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2254.078647342394</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22460246885315,-3.176058283472693,147.9660504166218</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0497A4497E2E787CC2CC">
+		<name>CTO 27</name>
+		<LookAt>
+			<longitude>-52.22434032896497</longitude>
+			<latitude>-3.177448507027137</latitude>
+			<altitude>144.4882303972493</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2263.401048646484</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22176913589956,-3.177294469474999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F55A7FE142E787D1C5E">
+		<name>CTO 28</name>
+		<LookAt>
+			<longitude>-52.22866361059737</longitude>
+			<latitude>-3.177041087329559</latitude>
+			<altitude>161.4982266963079</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1715.489460350946</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22936404083251,-3.177600699935188,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F81C651B2E787D4C14">
+		<name>CTO 29</name>
+		<LookAt>
+			<longitude>-52.22866361059737</longitude>
+			<latitude>-3.177041087329559</latitude>
+			<altitude>161.4982266963079</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1715.489460350946</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22741181786063,-3.175579869425853,157.5623881036039</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016A8445002E787D6BBB">
+		<name>CTO 30</name>
+		<LookAt>
+			<longitude>-52.22866361059737</longitude>
+			<latitude>-3.177041087329559</latitude>
+			<altitude>161.4982266963079</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1715.489460350946</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.23071997168641,-3.175575630845766,160.8600114454309</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="064FE32FDF2E78832981">
+		<name>CTO 31</name>
+		<LookAt>
+			<longitude>-52.2274703993347</longitude>
+			<latitude>-3.179798388741255</latitude>
+			<altitude>147.1627373325455</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1319.610500662238</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22767936409483,-3.179088097933914,156.2875421748267</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00794520992E78837C10">
+		<name>CTO 32</name>
+		<LookAt>
+			<longitude>-52.22682333472294</longitude>
+			<latitude>-3.180707650421636</latitude>
+			<altitude>141.9250024409031</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1058.527823330078</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01537EDB1F2E78724628</styleUrl>
+		<Point>
+			<coordinates>-52.22821762265391,-3.177656942237921,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
