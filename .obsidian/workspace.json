@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tópicos Avançados em Redes de Computadores/Aula 02/Aula 02.md",
+                "file": "Gerencia de Projetos/Aula 03/Aula 03 - Gerenciamento de Escopo.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bb684734ea85a43",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tópicos Avançados em Redes de Computadores/Aula 02/Aula 02.md",
+                "file": "Gerencia de Projetos/Aula 03/Aula 03 - Gerenciamento de Escopo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tópicos Avançados em Redes de Computadores/Aula 02/Aula 02.md",
+                "file": "Gerencia de Projetos/Aula 03/Aula 03 - Gerenciamento de Escopo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tópicos Avançados em Redes de Computadores/Aula 02/Aula 02.md"
+                "file": "Gerencia de Projetos/Aula 03/Aula 03 - Gerenciamento de Escopo.md"
               }
             }
           },
@@ -166,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98c96266fc480738",
+  "active": "512d5256a43f60e2",
   "lastOpenFiles": [
+    "Gerencia de Projetos/Aula 02/Aula 02 - Gerenciamento de Integração.md",
+    "Gerencia de Projetos/Aula 03/Aula 03 - Gerenciamento de Escopo.md",
+    "Tópicos Avançados em Redes de Computadores/Aula 02/Aula 02.md",
+    "Gerencia de Projetos/Aula 03",
     "Tópicos Avançados em Redes de Computadores/Aula 02/Atividade Aula 02 - Jheickson.kml",
     "Tópicos Avançados em Redes de Computadores/Aula 02/Atividade Aula 02 - Jheickson.kml.crdownload",
     "Tópicos Avançados em Redes de Computadores/Aula 01/~$aula-01-introducao-ta-redes.pptx",
@@ -177,13 +182,9 @@
     "Tópicos Avançados em Redes de Computadores/Aula 01/aula-01-introducao-ta-redes.pptx",
     "Tópicos Avançados em Redes de Computadores/Aula 01/aula-01-introducao-ta-redes.pptx.crdownload",
     "Tópicos Avançados em Redes de Computadores/Aula 01",
-    "Tópicos Avançados em Redes de Computadores/New folder",
-    "Tópicos Avançados em Redes de Computadores/Aula 02/aula-02-introducao_a_redes_pon.pptx",
     "Gerencia de Projetos/Aula 01/Mapa mental - Aula 1 Gerencia de Projetos.drawio.svg",
-    "Tópicos Avançados em Redes de Computadores/Aula 02/Aula 02.md",
     "Gerencia de Projetos/Aula 01/Mapa mental - Aula 1 Gerencia de Projetos.drawio.png",
     "Gerencia de Projetos/Aula 01/Aula 01 - Apresentação da Disciplina.md",
-    "Gerencia de Projetos/Aula 02/Aula 02.md",
     "Gerencia de Projetos/Untitled.canvas",
     "Gerencia de Projetos/Aula 01/[Aula1GP.pptx.md",
     "Gerencia de Projetos/Aula 01/[Aula 01.md",
