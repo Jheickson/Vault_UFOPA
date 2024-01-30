@@ -47,3 +47,24 @@
 * A rastreabilidade bidirecional entre o escopo e os produtos de trabalho é estabelecida e mantida
 * Revisões em planos e produtos de trabalho do projeto são realizadas visando identificar e corrigir inconsistencias em relação ao escopo 
 * Mudanças no escopo são gerenciadas ao longo do projeto 
+
+
+### Gestão ágil de projetos 
+* Product Backlog 
+	* É uma lista priorizada, contendo breves descrições de todas as funcionalidades desejadas para o produto.
+	* A equipe e o Project Owner escrevem e prorizam os itens do Product Backlog.
+		Exemplo:
+		Para priorizar
+		* Prioridades do cliente
+		* Urgencia em receber feedbach
+		* Dificuldade de implementação relativa
+	* Pode conter:
+		* Caracteristicas 
+		* Funcionalidades 
+		* Recursos
+		* Bugs
+		* Trabalhos tecnicos
+
+
+## Exercício (Slide)
+Realizar o Planejamento do Escopo utilizando o artefato Product Backlog para o desenvolvimento do seu projeto
