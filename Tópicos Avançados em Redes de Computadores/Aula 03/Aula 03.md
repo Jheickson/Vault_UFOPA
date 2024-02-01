@@ -18,6 +18,6 @@
 		* Fusão - 0,02 db a 0,1 db
 		* Mecanica - 0,15 db a 0,2 db
 	* Conexão - 0,3 db a 0,5 db
-	* Percurso - 1310 nm -> 0,35 dBm / 1550 nm -> 0,25 dBm
+	* Percurso - 1310 nm -> 0,35 dB / 1550 nm -> 0,25 dB (Por Km)
 * Os valores de especificação são, geralmente, providas pelo fabricante (Ex: Cianet)
 * 
