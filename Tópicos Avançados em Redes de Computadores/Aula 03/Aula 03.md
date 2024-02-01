@@ -24,4 +24,5 @@
 
 ### Exercício da aula
 * Agrupar as CTOs, de acordo com o padrão que escolhermos (Esquema de Splitagem)
+* Posicionar splitters (4.4, 2.8 e etc)
 * Até sabado 12:00
