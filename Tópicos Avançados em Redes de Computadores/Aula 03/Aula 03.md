@@ -20,3 +20,7 @@
 	* Conexão - 0,3 db a 0,5 db
 	* Percurso - 1310 nm -> 0,35 dB / 1550 nm -> 0,25 dB (Por Km)
 * Os valores de especificação são, geralmente, providas pelo fabricante (Ex: Cianet)
+
+
+### Exercício da aula
+* Agrupar as CTOs, de acordo com o padrão que escolhermos (Esquema de Splitagem)
