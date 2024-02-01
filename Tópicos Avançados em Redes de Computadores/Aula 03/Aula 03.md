@@ -24,3 +24,4 @@
 
 ### Exercício da aula
 * Agrupar as CTOs, de acordo com o padrão que escolhermos (Esquema de Splitagem)
+* Até sabado 12:00
