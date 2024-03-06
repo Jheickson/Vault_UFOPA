@@ -1,1 +1,1 @@
-# Gestão de Riscos
+# Gestão de Riscos && Gerencia de Comunicação
