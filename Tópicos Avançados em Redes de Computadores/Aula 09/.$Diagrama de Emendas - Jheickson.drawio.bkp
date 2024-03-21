@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-03-19T13:42:32.467Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/118.0.5993.159 Electron/27.3.2 Safari/537.36" etag="0Xx3VJwLM0QKg2uoVIp5" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2024-03-19T13:42:40.176Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/118.0.5993.159 Electron/27.3.2 Safari/537.36" etag="hvoLnwYkl3_goPU7GRO2" version="22.0.3" type="device">
   <diagram name="CEO - 01" id="C1RCiXJZ59i_yoJIkR_c">
-    <mxGraphModel dx="1432" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1495" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="CkmzLf-3LXHMh63ZvE2f-26" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;rotation=180;" vertex="1" parent="CkmzLf-3LXHMh63ZvE2f-28">
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CkmzLf-3LXHMh63ZvE2f-27" value="1x2 - A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="CkmzLf-3LXHMh63ZvE2f-28">
+        <mxCell id="CkmzLf-3LXHMh63ZvE2f-27" value="1x2 - B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="CkmzLf-3LXHMh63ZvE2f-28">
           <mxGeometry x="10" y="25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CkmzLf-3LXHMh63ZvE2f-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FFFF00;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;" edge="1" parent="1" source="CkmzLf-3LXHMh63ZvE2f-10" target="CkmzLf-3LXHMh63ZvE2f-26">
